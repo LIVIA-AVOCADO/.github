@@ -1,4 +1,5 @@
 # LIVIA · [liviachat.com](https://liviachat.com/)
+Linguagem, Inteligência e Valor. E IA, de Inteligência Artificial.
 
 **Atendimento via WhatsApp com IA, para empresas que não podem deixar o cliente esperando.**
 
