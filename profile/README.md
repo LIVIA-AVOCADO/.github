@@ -1,7 +1,7 @@
 # LIVIA · [liviachat.com](https://liviachat.com/)
-## Linguagem | Inteligência | Valor integrado a Inteligência Artificial.
+## Linguagem - Inteligência - Valor -> tudo isso integrado a IA.
 
-**Atendimento via WhatsApp com IA, para empresas que não podem deixar o cliente esperando.**
+**Atendimento via WhatsApp, isntagram, facebook e webchat com IA, para empresas que não podem deixar o cliente esperando.**
 
 A LIVIA é uma plataforma SaaS multi-tenant de atendimento omnichannel. A empresa conecta
 os números e canais dela, a plataforma recebe cada mensagem, entrega a conversa a um agente
