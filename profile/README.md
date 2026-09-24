@@ -7,6 +7,18 @@ os números e canais dela, a plataforma recebe cada mensagem, entrega a conversa
 de IA e, quando é hora de uma pessoa assumir, passa o atendimento para a equipe humana num
 inbox único — sem o cliente perceber a troca.
 
+## O nome
+
+**LIV.IA — Linguagem, Inteligência e Valor.** E **IA**, de Inteligência Artificial.
+
+- **Linguagem** — a LIVIA entende pessoas e empresas.
+- **Inteligência** — interpreta contexto, conhecimento e intenção para decidir o que fazer.
+- **Valor** — transforma essas interações em resultados para o negócio.
+
+Por baixo do nome, dois conceitos sustentam a plataforma: **Lógica** e **Interação**.
+
+> **Linguagem + Lógica + Inteligência + Interação → Valor**
+
 ## Nosso ecossistema
 
 - **LIVIA** — a plataforma de atendimento. Inbox único para a equipe, filas e URA,
