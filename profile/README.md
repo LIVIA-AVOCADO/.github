@@ -20,45 +20,6 @@ inbox único — sem o cliente perceber a troca.
 - **CRM e relatórios** — funil de contatos e indicadores de atendimento, comparando IA e
   equipe humana.
 
-## Como o ecossistema se organiza
-
-```
- WhatsApp · Instagram · Site
-            │
-            ▼
- ┌──────────────────────┐        ┌──────────────────────┐
- │  Gateway (Go)        │ ─────▶ │  Agent Builder       │
- │  recebe, persiste,   │ ◀───── │  motor de IA:        │
- │  roteia e envia      │        │  decide a resposta   │
- └──────────────────────┘        └──────────────────────┘
-            ▲
-            │
- ┌──────────────────────┐
- │  App (Next.js)       │  inbox, CRM, relatórios, configuração
- └──────────────────────┘
-```
-
-Quem fala com os canais é sempre o gateway. O motor de IA decide o texto; o app é onde a
-equipe trabalha.
-
-| Repositório | Papel |
-|---|---|
-| `app` | Aplicação web: inbox, CRM, relatórios e configuração (Next.js + Supabase) |
-| `gateway` | Gateway de mensagens: webhooks dos canais, roteamento e envio (Go) |
-| `agentbuilder` | Construtor dos agentes de IA de cada empresa |
-| `agent-runtime` | Runtime agêntico: pipeline do agente, ferramentas e classificação de conversas |
-| `livia-site` | Site institucional |
-| `admin` | Painel administrativo interno |
-| `infra` | Infraestrutura (Docker Swarm + Traefik) |
-| `docs` | Documentação central e decisões de arquitetura |
-
-> Os repositórios de produto são privados. Este perfil é a porta de entrada pública da
-> organização.
-
-## Stack
-
-Next.js · React · TypeScript · Go · PostgreSQL (Supabase) · Docker Swarm · Vercel
-
 ## Contato
 
 Quer usar a LIVIA na sua empresa ou falar com o time?
