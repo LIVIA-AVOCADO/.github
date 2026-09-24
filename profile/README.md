@@ -1,5 +1,5 @@
 # LIVIA · [liviachat.com](https://liviachat.com/)
-Linguagem, Inteligência e Valor. E IA, de Inteligência Artificial.
+##Linguagem, Inteligência e Valor. E IA, de Inteligência Artificial.
 
 **Atendimento via WhatsApp com IA, para empresas que não podem deixar o cliente esperando.**
 
@@ -7,6 +7,16 @@ A LIVIA é uma plataforma SaaS multi-tenant de atendimento omnichannel. A empres
 os números e canais dela, a plataforma recebe cada mensagem, entrega a conversa a um agente
 de IA e, quando é hora de uma pessoa assumir, passa o atendimento para a equipe humana num
 inbox único — sem o cliente perceber a troca.
+
+
+## Nosso ecossistema
+
+- **LIVIA** — a plataforma de atendimento. Inbox único para a equipe, filas e URA,
+  CRM e relatórios que comparam o atendimento da IA e o humano.
+- **Agent Builder** — onde cada empresa cria os agentes de IA dela: o que respondem,
+  como qualificam e quando passam a conversa para uma pessoa.
+- **Canais** — WhatsApp (API oficial da Meta e QR code), Instagram Direct e webchat
+  no site, todos na mesma caixa de entrada.
 
 ## O nome
 
@@ -20,14 +30,6 @@ Por baixo do nome, dois conceitos sustentam a plataforma: **Lógica** e **Intera
 
 > **Linguagem + Lógica + Inteligência + Interação → Valor**
 
-## Nosso ecossistema
-
-- **LIVIA** — a plataforma de atendimento. Inbox único para a equipe, filas e URA,
-  CRM e relatórios que comparam o atendimento da IA e o humano.
-- **Agent Builder** — onde cada empresa cria os agentes de IA dela: o que respondem,
-  como qualificam e quando passam a conversa para uma pessoa.
-- **Canais** — WhatsApp (API oficial da Meta e QR code), Instagram Direct e webchat
-  no site, todos na mesma caixa de entrada.
 
 ## Contato
 
